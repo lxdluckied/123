@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookoa/bookoa.iml" filepath="$PROJECT_DIR$/bookoa/bookoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1.iml" filepath="$PROJECT_DIR$/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online/online.iml" filepath="$PROJECT_DIR$/online/online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay/pay.iml" filepath="$PROJECT_DIR$/pay/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regcenter/regcenter.iml" filepath="$PROJECT_DIR$/regcenter/regcenter.iml" />
+    </modules>
+  </component>
+</project>
